@@ -6,7 +6,9 @@
 
 === MetaMask and Testnets
 
-MetaMask is a usefull tool for testing out dapps right in the browser. The MetaMask extension can be added to Chrome, firefox, opera, or the new [Brave browser](https://www.brave.com/). Once you have the plugin installed you can connect easily to the ethereum main, or test networks. [Image](https://github.com/MetaMask/faq/raw/master/images/click-the-test-network.png) Additionaly MetaMask protects its users by checking the sights you browse to against a blacklist of known ethereum phishing sites. 
+MetaMask is a usefull tool for testing out dapps right in the browser. The MetaMask extension can be added to Chrome, firefox, opera, or the new [Brave browser](https://www.brave.com/). Once you have the plugin installed you can connect easily to the ethereum main, or test networks.  
+![Image](https://github.com/MetaMask/faq/raw/master/images/click-the-test-network.png) 
+Additionaly MetaMask protects its users by checking the sights you browse to against a blacklist of known ethereum phishing sites. 
 
 === Network Provider Infura
 
